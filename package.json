@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "onboard_send_multiple_files_nodejs",
+  "description": "onboard_send_multiple_files_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcvduc/onboard_send_multiple_files_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcvduc/onboard_send_multiple_files_nodejs/issues"
+  },
+  "homepage": "https://github.com/tcvduc/onboard_send_multiple_files_nodejs#readme"
+}
